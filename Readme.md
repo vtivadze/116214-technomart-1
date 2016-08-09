@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Vakhtang Tivadze](https://up.htmlacademy.ru/htmlcss/14/user/116214).
-* Наставник: `Неизвестно`.
+* Наставник: `Unknown`.
 
 ---
 
